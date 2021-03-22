@@ -1,0 +1,58 @@
+{
+  "work": [
+    {
+      "date": "Jan 2020 - Present",
+      "title": "Graduate Teaching Assistant @ George Mason University",
+      "description": "<ul><li>Lab assistant for the course “Security Laboratory” and instructed students on setting up and using security tools and technologies like SIEM (Splunk), Firewalls (Pfsense, IPTables), OSINT tools (Shodan, Maltego, etc), IDS (Snort), Windows and Linux logging (Sysmon), Macro based pattern matching (YARA, Olevba), SQL Injection, XSS, Windows Active Directory Administration, LLMNR poisoning, SMB Relay attacks, Golden ticket attack (Mimikatz) and Command and Control communications (Covenant).</li>\n<li>Responsible for assessing assignments and assisting students with course related queries and troubleshooting their labs.</li> </ul>",
+      "stack": [
+        "Ionic",
+        "Angular",
+        "Node.js",
+        "npm",
+        "Git",
+        "Bitbucket",
+        "GitHub",
+        "Agile",
+        "Laravel",
+        "Express.js",
+        "Azure",
+        "Cosmos DB",
+        "JavaScript",
+        "TypeScript"
+      ]
+    },
+    {
+      "date": "September 2017 - September 2018",
+      "title": "Technical Intern at WC Colab for eInclusion and Social Innovation | Core Team",
+      "description": "I worked in a team of students focussing on projects centred around applications development, robotics, machine learning and designing courses to teach other students about these applications of technology.",
+      "stack": [
+        "Python",
+        "Linux",
+        "Angular",
+        "Ionic"
+      ]
+    },
+    {
+      "date": "January 2017 - present",
+      "title": "Freelance Software Developer",
+      "description": "I take on freelance contracts to build awesome looking web and mobile apps for clients in Cape Town and Around South Africa.",
+      "stack": [
+        "Angular",
+        "PHP",
+        "Python",
+        "RESTful API Design",
+        "MongoDB",
+        "Firebase",
+        "MySQL",
+        "Node.js",
+        "npm",
+        "Ionic",
+        "Database Design",
+        "Amazon EC2",
+        "Postman",
+        "Linux"
+      ]
+    }
+
+  ]
+}
