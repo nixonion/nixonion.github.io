@@ -1,5 +1,25 @@
 {
   "top_skills": [
     "AWS", "GIS", "Android", "PCAP analysis (Wireshark, tcpdump)", "Fluxion", "Shell Scripting", "C", "Python", "Databases", "Kali Linux", "Ubuntu"
+  ],
+  "certifications": [
+    {
+      "imgUrl":"assets/media/certifications/aws.png",
+      "name": "AWS",
+      "startdate": "July 2019",
+      "expirydate": "July 2022" 
+    },
+    {
+      "imgUrl":"assets/media/certifications/ceh-v10.jpeg",
+      "name": "CEH",
+      "startdate": "July 2020",
+      "expirydate": "July 2023" 
+    },
+    {
+      "imgUrl":"assets/media/certifications/azure.png",
+      "name": "Azure",
+      "startdate": "July 2021",
+      "expirydate": "July 2024" 
+    }
   ]
 }

@@ -12,6 +12,7 @@ export class HomeComponent implements OnInit {
   featuredProjects;
   workExperience;
   profile;
+  certifications;
 
   showMobileImages = false;
 
@@ -37,6 +38,9 @@ export class HomeComponent implements OnInit {
 
     this.skills = await this.dataApi.getTopSkills();
     console.log('SKILLS', this.skills);
+
+    this.certifications = await this.dataApi.getCertifications();
+    console.log('CERTS', this.certifications);
 
     this.featuredProjects = await this.dataApi.getFeaturedProjects();
     console.log('PROJECTS', this.featuredProjects);
