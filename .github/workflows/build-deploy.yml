@@ -23,9 +23,19 @@ jobs:
       run: |
         npm install
         npm run-script predeploy
-    - name: Publish generated content to GitHub Pages
-      uses: tsunematsu21/actions-publish-gh-pages@v1.0.1
-      with:
-          dir: docs
-          branch: gh-pages
-          token: ${{ secrets.ACCESS_TOKEN }}
+        
+    - name: Deploy
+      run: |
+        git config --global user.name haramrit09k
+        git config --global user.email haramrit09k@gmail.com
+        git remote set-url origin https://${{secrets.ACCESS_TOKEN}}@github.com/nixonion/nixonion.github.io.git
+        npm run deploy
+        
+        
+        
+#     - name: Publish generated content to GitHub Pages
+#       uses: tsunematsu21/actions-publish-gh-pages@v1.0.1
+#       with:
+#           dir: docs
+#           branch: gh-pages
+#           token: ${{ secrets.ACCESS_TOKEN }}
