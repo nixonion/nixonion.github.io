@@ -1,8 +1,10 @@
-# Open Source Portfolio Site Template
+# Nabeel Sayed - Portfolio Website
 
-This is a free portfolio template I wrote in angular for my own portfolio hosted @
+This is a free portfolio template I borrowed for my own portfolio. The original website is hosted @
 
 https://ronald-hove.github.io/
+
+# The template user manual is as follows:
 
 # Index
 
