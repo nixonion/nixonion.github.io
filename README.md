@@ -1,6 +1,8 @@
 # Nabeel Sayed - Portfolio Website
 
-This is a free portfolio template I borrowed for my own portfolio. The original website is hosted @
+Website: https://nixonion.github.io
+
+This website is built off a free portfolio template I borrowed from a fellow member of the GitHub open-source community. The original website is hosted @
 
 https://ronald-hove.github.io/
 
