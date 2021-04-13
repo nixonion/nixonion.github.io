@@ -1,20 +1,22 @@
 {
   "email": "snmahdi97@gmail.com",
   "location": "Fairfax, VA",
-  "name": "Nabeel Mahdi Sayed",
+  "name": "Nabeel Mahdi Abid Mehdi Sayed",
   "phone": "703-341-9688",
   "avatar": "assets/media/images/profile_pic_nabeel.jpeg",
   "education": [
     {
-      "title": "MS in Information Security and Assurance",
-      "meta": "George Mason University,  Aug 2019 – May 2021, GPA: 3.72/4.0"
+      "title": "MS in Information Security and Assurance (Aug 2019 – May 2021)",
+      "meta": "George Mason University, GPA: 3.72/4.0"
+
+
     },
     {
-      "title": "BE in Information Technology",
-      "meta": "Mumbai University,  Jul 2015 – May 2019, GPA: 3.5/4.0"
+      "title": "BE in Information Technology (Jul 2015 – May 2019)",
+      "meta": "Mumbai University, GPA: 3.5/4.0"
     }
   ],
-  "about": "A penetration tester and cloud security enthusiast with background in secure programming, security audit and compliance, network security, operating system security and vulnerability assessment. An excellent communicator and team player with a liking for sharing knowledge with the team. Skills in network and systems programming, PCAP analysis, SIEM, AWS, Azure and Scripting.",
+  "about": "A reader with much to learn.",
   "socials": [
     {
       "name": "snmahdi97@gmail.com",
@@ -30,6 +32,11 @@
       "name": "LinkedIn",
       "link": "https://www.linkedin.com/in/nabeelsayed/",
       "icon": "fab fa-linkedin"
+    },
+    {
+      "name": "Blog",
+      "link": "https://nabeelmahdi.medium.com/",
+      "icon": "fab fa-medium-m"
     }
   ]
 }

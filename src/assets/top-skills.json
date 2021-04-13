@@ -1,5 +1,21 @@
 {
   "top_skills": [
-    "AWS", "GIS", "Android", "PCAP analysis (Wireshark, tcpdump)", "Fluxion", "Shell Scripting", "C", "Python", "Databases", "Kali Linux", "Ubuntu"
+    "Kali Linux","Penetration Testing","Vulnerability Assesment","AWS", "C","Malware Analysis", "Python", "SQL","SIEM","IDS", "SAST", "DAST" ,"OWASP 10","Reading" 
+  ],
+  "certifications": [
+    {
+      "imgUrl":"assets/media/certifications/aws.png",
+      "name": "AWS Security Specialty",
+      "startdate": "July 2020",
+      "expirydate": "July 2023" ,
+      "verify":"https://www.credly.com/badges/beaad95c-a470-4ce7-931f-bc1588e98ec0/linked_in_profile"
+    },
+    {
+      "imgUrl":"assets/media/certifications/ceh-v10.jpeg",
+      "name": "Certified Ethical Hacker (CEH)",
+      "startdate": "July 2019",
+      "expirydate": "July 2022" ,
+      "verify":"https://aspen.eccouncil.org/verify"
+    }
   ]
 }

@@ -7,11 +7,10 @@
     "start": "ng serve",
     "build": "ng build",
     "predeploy": "npm run build -- --prod=true --base-href='https://nixonion.github.io'",
-    "deploy":"cp docs/index.html docs/404.html && gh-pages -d docs",
+    "deploy": "cp docs/index.html docs/404.html && gh-pages -d docs",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
-
   },
   "private": true,
   "dependencies": {
