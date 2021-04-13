@@ -19,10 +19,7 @@ export class DataApiService {
     return this.http.get('assets/top-skills.json').toPromise();
   }
   
-  getCertifications(): Promise<any> {
-    return this.http.get('assets/top-skills.json').toPromise();
-  }
-
+  
 
   getCertifications(): Promise<any> {
     return this.http.get('assets/top-skills.json').toPromise();
