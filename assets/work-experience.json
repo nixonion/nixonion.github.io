@@ -2,55 +2,57 @@
   "work": [
     {
       "date": "Jan 2020 - Present",
-      "title": "Graduate Teaching Assistant @ George Mason University",
-      "description": "<ul><li>Lab assistant for the course “Security Laboratory” and instructed students on setting up and using security tools and technologies like SIEM (Splunk), Firewalls (Pfsense, IPTables), OSINT tools (Shodan, Maltego, etc), IDS (Snort), Windows and Linux logging (Sysmon), Macro based pattern matching (YARA, Olevba), SQL Injection, XSS, Windows Active Directory Administration, LLMNR poisoning, SMB Relay attacks, Golden ticket attack (Mimikatz) and Command and Control communications (Covenant).</li>\n<li>Responsible for assessing assignments and assisting students with course related queries and troubleshooting their labs.</li> </ul>",
+      "title": "Graduate Teaching Assistant",
+      "description": "<a href='https://www2.gmu.edu/'>George Mason University</a>\n\n<ul><li>Lab assistant for the course “Security Laboratory” and instructed students on performing attacks like XSS, SQLinjection, SMB relay, LLMNR poisoning, Golden ticket, C2C and OSINT using Covenant, Mimikataz, Shodan, Maltego etc.</li>\n<li>Assisted students on defensive strategies using security tools and technologies like Splunk, Snort, Pfsense, YARA, Olevba and Sysmon along with Windows AD/Linux administration by troubleshooting their labs.</li> <li>Responsible for assessing assignments and helping students with course related queries </li></ul>\n",
       "stack": [
-        "Ionic",
-        "Angular",
-        "Node.js",
-        "npm",
-        "Git",
-        "Bitbucket",
-        "GitHub",
-        "Agile",
-        "Laravel",
-        "Express.js",
-        "Azure",
-        "Cosmos DB",
-        "JavaScript",
-        "TypeScript"
+        "Splunk",
+        "Snort",
+        "Oletools",
+        "YARA",
+        "Mimikatz",
+        "OSINT",
+        "Pfsense",
+        "Sysinternals",
+        "Active Directory Administration",
+        "Linux Server Administration"
+        
       ]
     },
     {
-      "date": "September 2017 - September 2018",
-      "title": "Technical Intern at WC Colab for eInclusion and Social Innovation | Core Team",
-      "description": "I worked in a team of students focussing on projects centred around applications development, robotics, machine learning and designing courses to teach other students about these applications of technology.",
+      "date": "June 2020 - August 2020",
+      "title": "Penetration Tester",
+      "description": "<a href='https://tokenmetrics.com/'>Tokenmetrics</a>\n\n<ul><li> Performed periodic manual penetration tests and secured the web applications by pointing out the OWASP 10 vulnerabilities using Burpsuite and Kali Linux tool set, drafted vulnerability reports and gave security related recommendations. </li>\n<li> Implemented User Segmentation by implementing structured AWS IAM rule base, altering Security Groups and NACL for application and task specific VPN access and configured EC2, VPC and Cloudtrail to forward logs to Cloudwatch</li>\n<li>Conducted system scans using AWS inspector, drafted a list of IOCs for WAF and analyzed logs in AWS Cloudwatch</li>\n<li>Enhanced the application security by performing SAST using Sonarqube, Jshint, etc, and DAST using OWASP ZAP, OpenVAS etc</li>\n<li>Used Containers and Kubernetes to deploy and test the security of new applications before final deployment. </li>\n<li>Performed internal social engineering attacks to spread awareness and drafted user guides/policies for clients on key security related enhancements.</li>\n</ul>",
       "stack": [
-        "Python",
-        "Linux",
-        "Angular",
-        "Ionic"
+        "AWS",
+        "Penetration testing",
+        "Burpsuite",
+        "Sonarqube",
+        "OWASP ZAP",
+        "WPscan",
+        "XSS",
+        "SQLI",
+        "Cookie Poisoning",
+        "Broken Authentication",
+        "Input Validation",
+        "CI/CD",
+        "Web Application Security"
       ]
     },
     {
-      "date": "January 2017 - present",
-      "title": "Freelance Software Developer",
-      "description": "I take on freelance contracts to build awesome looking web and mobile apps for clients in Cape Town and Around South Africa.",
+      "date": "June 2019 - June 2019",
+      "title": "Cybersecurity Intern",
+      "description": "<a href='https://www.protechmanize.com/'>Protechmanize</a>\n\n<ul><li>Created testing plans and Performed vulnerability scans over the network of in scope firms. Employed Nessus professional and Kali Linux based penetration testing tools for vulnerability assessment on networks. E.g., Aircrack-ng, Burpsuite, Wireshark etc</li>\n<li>Facilitated the development of vulnerability reports and created analysis and visualization of the reports for reporting needs</li></ul>",
       "stack": [
-        "Angular",
-        "PHP",
-        "Python",
-        "RESTful API Design",
-        "MongoDB",
-        "Firebase",
-        "MySQL",
-        "Node.js",
-        "npm",
-        "Ionic",
-        "Database Design",
-        "Amazon EC2",
-        "Postman",
-        "Linux"
+        "Wireshark",
+        "Kali Linux",
+        "Wifi testing",
+        "Aircrack-ng",
+        "Traffic Analysis",
+        "Burpsuite",
+        "Nessus Professional",
+        "Vulnerability Assessment",
+        "Report"
+        
       ]
     }
 
