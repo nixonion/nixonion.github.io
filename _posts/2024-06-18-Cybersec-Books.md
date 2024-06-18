@@ -4,7 +4,7 @@ published: true
 ---
 
 
-My journey into the world of cybersecurity began with a deep dive into books and practical challenges like Hack The Box. One of the first sparks that ignited my passion was Google's [Project Zero] (https://googleprojectzero.blogspot.com/). Project Zero is a team of elite security researchers dedicated to finding and fixing zero-day vulnerabilities across various software platforms. Their work in identifying and reporting critical vulnerabilities has not only made the digital world safer but also provided invaluable insights into the complexity and intricacies of cybersecurity .
+My journey into the world of cybersecurity began with a deep dive into books and practical challenges like Hack The Box. One of the first sparks that ignited my passion was Google's [Project Zero](https://googleprojectzero.blogspot.com/). Project Zero is a team of elite security researchers dedicated to finding and fixing zero-day vulnerabilities across various software platforms. Their work in identifying and reporting critical vulnerabilities has not only made the digital world safer but also provided invaluable insights into the complexity and intricacies of cybersecurity .
 
 As I delved deeper, several books became instrumental in shaping my understanding and skills:
 
