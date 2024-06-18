@@ -12,22 +12,44 @@
     </author>
     
       <item>
+        <title>Cyber Security Interview Questions</title>
+        <description>&lt;p&gt;During my job interviewing days, I started creating a question bank of cybersecurity interview questions. After each interview, I would add another question to the list. My question bank is stored on GitHub, and I am planning to make it publicly available soon. My goal is to compile all the questions and answers and display them on a website, organized by different topics, so that students and interviewers can easily find relevant questions. I also want to turn this into a crowdsourced project, allowing others to contribute their own questions and insights. If anyone has ideas on how to effectively crowdsource this project, I would greatly appreciate the help.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/nixonion/Cybersecurity-Interview-Questions&quot;&gt;https://github.com/nixonion/Cybersecurity-Interview-Questions&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 19 Jun 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//Cybersec-Questions</link>
+        <link href="http://localhost:4000/Cybersec-Questions"/>
+        <guid isPermaLink="true">http://localhost:4000/Cybersec-Questions</guid>
+      </item>
+    
+      <item>
         <title>Cyber Security Book Recommendation</title>
-        <description>&lt;p&gt;My journey into the world of cybersecurity began with a deep dive into books and practical challenges like Hack The Box. One of the first sparks that ignited my passion was Google’s Project Zero. Project Zero is a team of elite security researchers dedicated to finding and fixing zero-day vulnerabilities across various software platforms. Their work in identifying and reporting critical vulnerabilities has not only made the digital world safer but also provided invaluable insights into the complexity and intricacies of cybersecurity .&lt;/p&gt;
+        <description>&lt;p&gt;My journey into the world of cybersecurity began with a deep dive into books and practical challenges like Hack The Box. One of the first sparks that ignited my passion was Google’s [Project Zero] (https://googleprojectzero.blogspot.com/). Project Zero is a team of elite security researchers dedicated to finding and fixing zero-day vulnerabilities across various software platforms. Their work in identifying and reporting critical vulnerabilities has not only made the digital world safer but also provided invaluable insights into the complexity and intricacies of cybersecurity .&lt;/p&gt;
 
 &lt;p&gt;As I delved deeper, several books became instrumental in shaping my understanding and skills:&lt;/p&gt;
 
-&lt;p&gt;The Web Application Hacker’s Handbook: This book provided a comprehensive guide to exploiting and securing web applications, introducing me to the nuances of web security.&lt;/p&gt;
-
-&lt;p&gt;Threat Modeling: Designing for Security by Adam Shostack: Shostack’s approach to identifying and mitigating threats through structured thinking was a game-changer for me, highlighting the importance of proactive security measures.&lt;/p&gt;
-
-&lt;p&gt;Penetration Testing: A Hands-on Introduction to Hacking by Georgia Weidman: This practical guide offered hands-on experience in penetration testing, helping me develop a hacker’s mindset and understand the practical aspects of cybersecurity.&lt;/p&gt;
-
-&lt;p&gt;Secure Programming HOWTO by David Wheeler: I was fortunate to have David Wheeler as a professor, and his book reinforced his teachings on writing secure code. His expertise and ability to convey complex concepts simply made a significant impact on my learning.&lt;/p&gt;
-
-&lt;p&gt;Practical Malware Analysis: This book delved into the world of malware, teaching me how to dissect and understand malicious software, which is crucial for defending against cyber threats.&lt;/p&gt;
-
-&lt;p&gt;Serious Cryptography: A Practical Introduction to Modern Encryption: This book offered a clear and thorough introduction to cryptographic principles and practices, essential for securing data in the digital age.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470&quot;&gt;The Web Application Hacker’s Handbook&lt;/a&gt;: This book provided a comprehensive guide to exploiting and securing web applications, introducing me to the nuances of web security.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998&quot;&gt;Threat Modeling: Designing for Security by Adam Shostack&lt;/a&gt;: Shostack’s approach to identifying and mitigating threats through structured thinking was a game-changer for me, highlighting the importance of proactive security measures.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641&quot;&gt;Penetration Testing: A Hands-on Introduction to Hacking by Georgia Weidman&lt;/a&gt;: This practical guide offered hands-on experience in penetration testing, helping me develop a hacker’s mindset and understand the practical aspects of cybersecurity.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://dwheeler.com/secure-programs/Secure-Programs-HOWTO.pdf&quot;&gt;Secure Programming HOWTO by David Wheeler&lt;/a&gt;: I was fortunate to have David Wheeler as a professor, and his book reinforced his teachings on writing secure code. His expertise and ability to convey complex concepts simply made a significant impact on my learning.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901&quot;&gt;Practical Malware Analysis&lt;/a&gt;: This book delved into the world of malware, teaching me how to dissect and understand malicious software, which is crucial for defending against cyber threats.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Serious-Cryptography-Practical-Introduction-Encryption/dp/1593278268&quot;&gt;Serious Cryptography: A Practical Introduction to Modern Encryption&lt;/a&gt;: This book offered a clear and thorough introduction to cryptographic principles and practices, essential for securing data in the digital age.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;These resources, combined with the practical experience from Hack The Box, have been foundational in my cybersecurity education, equipping me with the knowledge and skills to navigate and secure the digital landscape.&lt;/p&gt;
 
